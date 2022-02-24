@@ -1,6 +1,7 @@
 [
-{
-"name":"test",
-"url":"www.baidu.com"
-}
+  {
+    "name":"test",
+    "url":"www.cocos.com",
+    "desc":"测试"
+  }
 ]
