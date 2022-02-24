@@ -1,7 +1,8 @@
 [
   {
-    "name":"test",
+    "name":"test-cocos",
     "url":"www.cocos.com",
-    "desc":"测试"
+    "desc":"这是一个测试bundle",
+    "test":true
   }
 ]
